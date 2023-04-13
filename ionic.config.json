@@ -1,0 +1,7 @@
+{
+  "name": "calc_ion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
